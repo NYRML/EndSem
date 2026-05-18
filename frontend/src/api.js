@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://ai-hr-backend-xxxx.onrender.com/api',
+  baseURL: 'https://ai-hr-backend-m8gi.onrender.com/api',
 });
 
 // Add a request interceptor to add the JWT token
